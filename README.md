@@ -1,12 +1,12 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/a-petulla/data_science_bootcamp)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/a-petulla/conda_env)
 
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-https://mybinder.org/v2/gh/a-petulla/data_science_bootcamp
+https://mybinder.org/v2/gh/a-petulla/conda_env
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
