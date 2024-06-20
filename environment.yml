@@ -10,8 +10,8 @@ dependencies:
   - matplotlib
   - scikit-learn
   - numpy
-  - dplyr
-  - ggplot2
-  - reshape2
-  - tidyverse
-  - stringr
+  - r-dplyr
+  - r-ggplot2
+  - r-reshape2
+  - r-tidyverse
+  - r-stringr
