@@ -2,13 +2,15 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - python=3.11
-  - numpy
-  - psutil
-  - toolz
-  - matplotlib
-  - dill
+  - python=3.9
+  - r=4.0
+  - plotly
   - pandas
-  - partd
-  - bokeh
-  - dask
+  - matplotlib
+  - scikit-learn
+  - numpy
+  - dplyr
+  - ggplot2
+  - reshape2
+  - tidyverse
+  - stringr
