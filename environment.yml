@@ -1,6 +1,7 @@
 name: example-environment
 channels:
   - conda-forge
+  - default
 dependencies:
   - python=3.9
   - r=4.0
